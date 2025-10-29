@@ -1,3 +1,6 @@
 {
-    "livePreview.portNumber": 8080
+    "livePreview.portNumber": 8080,
+    "github.copilot.enable": {
+        "*": false
+    }
 }
